@@ -1,0 +1,20 @@
+### Sobre o Git
+
+## Ramificação e fusão
+O recurso do Git que realmente o diferencia de quase todos os outros SCM é seu modelo de ramificação.
+
+O Git permite e incentiva você a ter várias ramificações locais que podem ser totalmente independentes umas das outras. A criação, mesclagem e exclusão dessas linhas de desenvolvimento leva segundos.
+
+## Pequeno e rápido
+Git é rápido . Com o Git, quase todas as operações são executadas localmente, proporcionando uma enorme vantagem de velocidade em sistemas centralizados que constantemente precisam se comunicar com um servidor em algum lugar.
+
+O Git foi construído para funcionar no kernel Linux, o que significa que ele teve que lidar efetivamente com grandes repositórios desde o primeiro dia. O Git é escrito em C, reduzindo a sobrecarga de tempos de execução associados a linguagens de nível superior. Velocidade e desempenho tem sido o principal objetivo de design do Git desde o início.
+
+## Distribuído
+Um dos recursos mais interessantes de qualquer SCM distribuído, incluindo o Git, é que ele é distribuído. Isso significa que ao invés de fazer um "checkout" da dica atual do código fonte, você faz um "clone" de todo o repositório.
+Isso significa que, mesmo se você estiver usando um fluxo de trabalho centralizado, cada usuário terá essencialmente um backup completo do servidor principal. Cada uma dessas cópias pode ser enviada para substituir o servidor principal em caso de falha ou corrupção. Na verdade, não há um único ponto de falha com o Git, a menos que haja apenas uma única cópia do repositório.
+
+## Gratuito e de código aberto
+Git é lançado sob a GNU General Public License versão 2.0 , que é uma licença de código aberto . O projeto Git escolheu usar a GPLv2 para garantir sua liberdade de compartilhar e alterar software livre --- para garantir que o software seja gratuito para todos os usuários.
+
+# [Link para download](https://git-scm.com/downloads)
